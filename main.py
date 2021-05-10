@@ -1,3 +1,6 @@
+from lista import lista
+
+lista[1]
 
 
 
